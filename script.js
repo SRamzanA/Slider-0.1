@@ -29,9 +29,3 @@ function imgAfter() {
         images.src = slide[numSlide]
     }
 }
-
-
-
-
-
-
