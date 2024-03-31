@@ -9,7 +9,7 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to bottom, #3768a0, #8eb1ff);
+    background: linear-gradient(to bottom, #0378ff, #9ab7f5);
 }
 .slider {
     display: flex;
